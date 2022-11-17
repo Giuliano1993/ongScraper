@@ -2,3 +2,4 @@ beautifulsoup4
 requests
 urllib3
 mysql-connector-python
+cassandra-driver
